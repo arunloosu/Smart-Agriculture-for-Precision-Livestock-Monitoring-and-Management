@@ -1,8 +1,0 @@
-transformers>=4.40
-datasets>=2.19
-peft>=0.10
-accelerate>=0.29
-evaluate>=0.4
-rouge-score>=0.1.2
-torch>=2.1
-pandas>=2.0
